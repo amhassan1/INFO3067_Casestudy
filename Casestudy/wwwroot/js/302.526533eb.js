@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkcasestudyvue"]=globalThis["webpackChunkcasestudyvue"]||[]).push([[302],{3302:(e,s,t)=>{t.r(s),t.d(s,{default:()=>h});var a=t(9835);const c={class:"text-center"},u=(0,a._)("div",{class:"text-h2 q-mt-lg"},"Home",-1),n=[u];function r(e,s){return(0,a.wg)(),(0,a.iD)("div",c,n)}var l=t(1639);const d={},i=(0,l.Z)(d,[["render",r]]),h=i}}]);

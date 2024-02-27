@@ -1,0 +1,167 @@
+[
+  {
+    "id": "NIKE001",
+    "brand": "Nike",
+    "productName": "Nike Air Zoom Pegasus 38",
+    "graphicName": "pegasus38.jpg",
+    "costPrice": 85,
+    "MSRP": 120,
+    "qtyOnHand": 100,
+    "qtyOnBackOrder": 10,
+    "description": "Experience responsive cushioning and a secure fit with the Nike Air Zoom Pegasus 38. These versatile running shoes are perfect for both daily runs and long-distance training. Enjoy comfort and support mile after mile."
+  },
+  {
+    "id": "NIKE002",
+    "brand": "Nike",
+    "productName": "Nike Sportswear Club Fleece Hoodie",
+    "graphicName": "clubfleecehoodie.jpg",
+    "costPrice": 45,
+    "MSRP": 65,
+    "qtyOnHand": 50,
+    "qtyOnBackOrder": 5,
+    "description": "Stay cozy and stylish with the Nike Sportswear Club Fleece Hoodie. Crafted from soft and warm fleece fabric, this hoodie is perfect for everyday wear. It features a kangaroo pocket and an adjustable hood for added convenience."
+  },
+  {
+    "id": "NIKE003",
+    "brand": "Nike",
+    "productName": "Nike Pro Training Pants",
+    "graphicName": "protrainingpants.jpg",
+    "costPrice": 30,
+    "MSRP": 45,
+    "qtyOnHand": 80,
+    "qtyOnBackOrder": 15,
+    "description": "Enhance your performance with the Nike Pro Training Pants. Made with sweat-wicking fabric, these pants provide a comfortable and flexible fit. The tapered design and elastic waistband offer a modern look and secure fit."
+  },
+  {
+    "id": "NIKE004",
+    "brand": "Nike",
+    "productName": "Nike Dri-FIT Legend T-Shirt",
+    "graphicName": "drifitlegendtshirt.jpg",
+    "costPrice": 15,
+    "MSRP": 25,
+    "qtyOnHand": 120,
+    "qtyOnBackOrder": 0,
+    "description": "Stay cool and dry during your workouts with the Nike Dri-FIT Legend T-Shirt. This lightweight and breathable shirt is made with moisture-wicking fabric to keep you comfortable. Its classic design and relaxed fit make it a versatile choice."
+  },
+  {
+    "id": "NIKE005",
+    "brand": "Nike",
+    "productName": "Nike Fundamental Sports Water Bottle",
+    "graphicName": "fundamentalsportswaterbottle.jpg",
+    "costPrice": 8,
+    "MSRP": 12,
+    "qtyOnHand": 200,
+    "qtyOnBackOrder": 20,
+    "description": "Stay hydrated on the go with the Nike Fundamental Sports Water Bottle. This BPA-free bottle features a leak-proof valve and an ergonomic design for easy handling. Its large capacity ensures you have enough water to quench your thirst during workouts."
+  },
+  {
+    "id": "ADIDAS001",
+    "brand": "Adidas",
+    "productName": "Adidas Ultraboost 21",
+    "graphicName": "ultraboost21.jpg",
+    "costPrice": 110,
+    "MSRP": 180,
+    "qtyOnHand": 90,
+    "qtyOnBackOrder": 8,
+    "description": "Elevate your running experience with the Adidas Ultraboost 21. These high-performance running shoes feature a responsive Boost midsole and a supportive Primeknit upper. Experience unparalleled comfort and energy return."
+  },
+  {
+    "id": "ADIDAS002",
+    "brand": "Adidas",
+    "productName": "Adidas Essentials 3-Stripes T-Shirt",
+    "graphicName": "essentials3stripestshirt.jpg",
+    "costPrice": 18,
+    "MSRP": 30,
+    "qtyOnHand": 70,
+    "qtyOnBackOrder": 12,
+    "description": "Update your casual wardrobe with the Adidas Essentials 3-Stripes T-Shirt. Made with soft cotton fabric, this classic tee features the iconic Adidas 3-Stripes design for a sporty look. Perfect for everyday wear."
+  },
+  {
+    "id": "ADIDAS003",
+    "brand": "Adidas",
+    "productName": "Adidas Tiro 21 Training Pants",
+    "graphicName": "tiro21trainingpants.jpg",
+    "costPrice": 30,
+    "MSRP": 45,
+    "qtyOnHand": 60,
+    "qtyOnBackOrder": 5,
+    "description": "Train in style and comfort with the Adidas Tiro 21 Training Pants. These soccer-inspired pants are made with breathable fabric and feature moisture-wicking technology to keep you dry. The slim fit and ankle zips provide a modern look and easy on/off."
+  },
+  {
+    "id": "ADIDAS004",
+    "brand": "Adidas",
+    "productName": "Adidas Core Advantage Backpack",
+    "graphicName": "coreadvantagebackpack.jpg",
+    "costPrice": 25,
+    "MSRP": 40,
+    "qtyOnHand": 100,
+    "qtyOnBackOrder": 20,
+    "description": "Carry your essentials in style with the Adidas Core Advantage Backpack. This spacious backpack features multiple compartments for organized storage and adjustable padded shoulder straps for added comfort. Perfect for school, work, or daily adventures."
+  },
+  {
+    "id": "ADIDAS005",
+    "brand": "Adidas",
+    "productName": "Adidas Adizero Gloves",
+    "graphicName": "adizerogloves.jpg",
+    "costPrice": 20,
+    "MSRP": 35,
+    "qtyOnHand": 80,
+    "qtyOnBackOrder": 10,
+    "description": "Enhance your grip and control on the field with the Adidas Adizero Gloves. These lightweight and flexible gloves provide a secure fit and excellent ball feel. Designed for performance, they offer optimal breathability and durability."
+  },
+  {
+    "id": "UNDERARMOUR001",
+    "brand": "Under Armour",
+    "productName": "Under Armour HOVR Phantom 2 Running Shoes",
+    "graphicName": "hovrphantom2.jpg",
+    "costPrice": 95,
+    "MSRP": 140,
+    "qtyOnHand": 80,
+    "qtyOnBackOrder": 5,
+    "description": "Experience unparalleled cushioning and energy return with the Under Armour HOVR Phantom 2 Running Shoes. These lightweight and breathable shoes provide a snug and supportive fit, allowing you to maximize your performance on the road or the track."
+  },
+  {
+    "id": "UNDERARMOUR002",
+    "brand": "Under Armour",
+    "productName": "Under Armour Tech 2.0 Short Sleeve T-Shirt",
+    "graphicName": "tech20tshirt.jpg",
+    "costPrice": 15,
+    "MSRP": 25,
+    "qtyOnHand": 120,
+    "qtyOnBackOrder": 0,
+    "description": "Stay comfortable and focused during your workouts with the Under Armour Tech 2.0 Short Sleeve T-Shirt. Made with moisture-wicking fabric, this lightweight and quick-drying shirt helps keep you dry and cool. Its loose fit allows for unrestricted movement."
+  },
+  {
+    "id": "UNDERARMOUR003",
+    "brand": "Under Armour",
+    "productName": "Under Armour Rival Fleece Joggers",
+    "graphicName": "rivalfleecejoggers.jpg",
+    "costPrice": 35,
+    "MSRP": 50,
+    "qtyOnHand": 60,
+    "qtyOnBackOrder": 10,
+    "description": "Upgrade your athleisure collection with the Under Armour Rival Fleece Joggers. These cozy and stylish joggers are made with soft and warm fleece fabric, perfect for lounging or light workouts. They feature an adjustable waistband and ribbed cuffs for a comfortable fit."
+  },
+  {
+    "id": "UNDERARMOUR004",
+    "brand": "Under Armour",
+    "productName": "Under Armour Hustle 5.0 Backpack",
+    "graphicName": "hustlebackpack.jpg",
+    "costPrice": 30,
+    "MSRP": 45,
+    "qtyOnHand": 90,
+    "qtyOnBackOrder": 8,
+    "description": "Carry your essentials in style with the Under Armour Hustle 5.0 Backpack. This durable and water-resistant backpack features multiple compartments, including a laptop sleeve, for organized storage. The padded shoulder straps and back panel provide all-day comfort."
+  },
+  {
+    "id": "UNDERARMOUR005",
+    "brand": "Under Armour",
+    "productName": "Under Armour Hustle Fleece Pants",
+    "graphicName": "hustlefleecepants.jpg",
+    "costPrice": 40,
+    "MSRP": 60,
+    "qtyOnHand": 100,
+    "qtyOnBackOrder": 15,
+    "description": "Stay warm and comfortable during your workouts with the Under Armour Hustle Fleece Pants. Made with soft and warm fleece fabric, these pants provide a cozy feel. The elastic waistband and drawstring allow for a personalized fit."
+  }
+]

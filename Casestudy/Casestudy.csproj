@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="appsettingsAzure.txt" />
+    <None Remove="appsettingsLocal.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="appsettingsAzure.txt" />
+    <Content Include="appsettingsLocal.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.9" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="7.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.8">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.32.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\fonts\flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.c5371cfb.woff2" />
+    <None Include="wwwroot\js\148.7a3d474c.js" />
+    <None Include="wwwroot\js\176.5bc7f624.js" />
+    <None Include="wwwroot\js\294.43f2df4f.js" />
+    <None Include="wwwroot\js\302.526533eb.js" />
+    <None Include="wwwroot\js\387.74e237b1.js" />
+    <None Include="wwwroot\js\472.57c234bd.js" />
+    <None Include="wwwroot\js\640.0e317ea4.js" />
+    <None Include="wwwroot\js\65.f4036b7d.js" />
+    <None Include="wwwroot\js\941.801ff455.js" />
+    <None Include="wwwroot\js\954.ca31d8b2.js" />
+    <None Include="wwwroot\js\app.f0fb7a62.js" />
+    <None Include="wwwroot\js\vendor.1c4296f3.js" />
+  </ItemGroup>
+
+</Project>
